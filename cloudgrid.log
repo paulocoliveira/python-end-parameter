@@ -1,0 +1,6 @@
+Timestamp | 2023-06-18 11:03:17.614599 | Platform | WINDOWS | Browser | chrome | Step # | 1 | Element | user-message | Action | send_keys | Details | This is an end parameter text!;
+Timestamp | 2023-06-18 11:03:17.991991 | Platform | WINDOWS | Browser | chrome | Step # | 2 | Element | showInput | Action | click | Details | ;
+Timestamp | 2023-06-18 11:03:18.252064 | Platform | WINDOWS | Browser | chrome | Step # | 3 | Element | message | Action | .text | Details | This is an end parameter text!;
+Timestamp | 2023-06-18 11:03:27.521943 | Platform | MAC | Browser | firefox | Step # | 1 | Element | user-message | Action | send_keys | Details | This is an end parameter text!;
+Timestamp | 2023-06-18 11:03:28.217684 | Platform | MAC | Browser | firefox | Step # | 2 | Element | showInput | Action | click | Details | ;
+Timestamp | 2023-06-18 11:03:28.517977 | Platform | MAC | Browser | firefox | Step # | 3 | Element | message | Action | .text | Details | This is an end parameter text!;
